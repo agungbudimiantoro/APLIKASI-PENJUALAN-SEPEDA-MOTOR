@@ -1,5 +1,6 @@
-#APLIKASI-PENJUALAN-SEPEDA MOTOR
-                              by agung budi miantoro
+# APLIKASI-PENJUALAN-SEPEDA-MOTORAP
+aplikasi penjualan sepeda motor dibuat dengan php 5.4
+by agung budi miantoro
                               
                              
                               
